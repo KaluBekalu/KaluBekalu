@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KaluBekalu
 - 👀 I’m interested in web and mobile app development.
-- 🌱 I’m currently working with Express, Mongo db and React.
-- 💞️ I’m looking to collaborate on anything web and mobile app realated projects.
 - 📫 You can reach me through my email kalubekalu1@gmail.com.
 
 <!---
