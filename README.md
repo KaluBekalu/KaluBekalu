@@ -16,6 +16,11 @@ Here’s a snapshot of my tech arsenal:
 **DevOps**: Docker, Jenkins, Git  
 **Others**: GraphQL, REST APIs, Jest, Cypress, Apache Kafka
 
+## ✉️ Recent Projects
+Take a peak at my recent side projects
+- **My Portfolio Site**: [Source Code](https://github.com/KaluBekalu/portfolio-2024)   -  [Demo 🎑](https://github.com/KaluBekalu/portfolio-2024)
+
+
 
 ## ✉️ Connect with Me
 Let’s collaborate or just have a chat! You can find me here:
