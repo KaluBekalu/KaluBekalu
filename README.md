@@ -20,7 +20,7 @@ Here’s a snapshot of my tech arsenal:
 Take a peak at my recent side projects
 - **My Portfolio Site**: [Source Code](https://github.com/KaluBekalu/portfolio-2024)   -  [Demo 🎑](https://github.com/KaluBekalu/portfolio-2024)
 # 💫 About Me:
-🔭 I’m currently a health care web app for seniors<br>👯 I’m looking to collaborate on open-source projects. <br>🌱 I’m currently learning python and AWS<br>
+🔭 I’m currently working on a health care web app for seniors<br>👯 I’m looking to collaborate on open-source projects. <br>🌱 I’m currently learning python and AWS<br>
 
 
 ## 🌐 Socials:
