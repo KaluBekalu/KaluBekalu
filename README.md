@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to Kalkidan's GitHub Space 🚀
 
-I'm **Kalkidan Bekalu**, a passionate Full Stack Developer 🖥️✨ based in Dallas, Texas. My work combines creativity, problem-solving, and cutting-edge tech to build user-focused applications that make a difference.
+I'm **Kalkidan Bekalu**, a passionate Full Stack Developer 🖥️✨ based in Chicago, IL. My work combines creativity, problem-solving, and cutting-edge tech to build user-focused applications that make a difference.
 
 ## 🧑‍💻 About Me
 - 🔭 **What I’m working on**: Scalable, user-friendly apps with React, Node.js, and MongoDB.
