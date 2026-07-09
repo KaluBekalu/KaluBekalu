@@ -12,10 +12,11 @@ I have a soft spot for software that touches the real world in real time: camera
 
 | Project | What it is |
 |---|---|
-| [Meetily](https://github.com/KaluBekalu/meetily) | Privacy-first AI meeting notetaker: live Whisper/Parakeet transcription, speaker diarization, local LLM summaries. 100% on-device, Rust. |
-| [RuView](https://github.com/KaluBekalu/ruview) | Turns commodity WiFi signals into presence detection and vital-sign monitoring. Spatial intelligence with zero cameras. |
-| [ChordFinder](https://github.com/KaluBekalu/chordfinder) | Detects guitar chords in real time from your mic using FFT frequency analysis. React + TypeScript. |
-| [Portfolio](https://github.com/KaluBekalu/portfolio-2024) | My corner of the internet. |
+| **Ronen Notes** | Collaborative note-taking for creators: rich-text notes shared with stakeholders for threaded feedback, built around a dual authentication model. TypeScript, private beta. |
+| **Guaro** | Cloud-hosted inventory, POS & buying-trip manager for small shops. Next.js + Fastify + Drizzle/Neon, deployed on Fly.io. |
+| **SMYL Fitness web app** | Modern platform for senior fitness and fall-prevention programs, built with the SMYL Fitness engineering team. |
+
+**Open source:** contributor to [Meetily](https://github.com/Zackriya-Solutions/meetily), the privacy-first, fully local AI meeting notetaker.
 
 ## 🛠 Day-to-day stack
 
