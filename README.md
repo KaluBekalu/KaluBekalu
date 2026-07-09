@@ -6,7 +6,7 @@ I have a soft spot for software that touches the real world in real time: camera
 
 ## 🔨 Building now
 
-- **LoopCam** — an open-source virtual camera for macOS (SwiftUI + a CoreMediaIO camera extension). Loop yourself, step away from the call, come back like you never left. *Going public soon* 👀
+- **[LoopCam](https://github.com/KaluBekalu/loopcam)** — an open-source virtual camera for macOS (SwiftUI + a CoreMediaIO camera extension). Loop yourself, step away from the call, come back like you never left. *Going public soon* 👀
 
 ## 🧰 Selected work
 
