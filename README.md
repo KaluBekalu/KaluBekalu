@@ -12,9 +12,9 @@ I have a soft spot for software that touches the real world in real time: camera
 
 | Project | What it is |
 |---|---|
-| **Ronen Notes** | Collaborative note-taking for creators: rich-text notes shared with stakeholders for threaded feedback, built around a dual authentication model. TypeScript, private beta. |
-| **Guaro** | Cloud-hosted inventory, POS & buying-trip manager for small shops. Next.js + Fastify + Drizzle/Neon, deployed on Fly.io. |
-| **SMYL Fitness web app** | Modern platform for senior fitness and fall-prevention programs, built with the SMYL Fitness engineering team. |
+| [**Ronen Notes**](https://notes.tibeblabs.com) | Collaborative note-taking for creators: rich-text notes shared with stakeholders for threaded feedback, built around a dual authentication model. TypeScript, private beta. |
+| [**Guaro**](https://guaro.tibeblabs.com) | Cloud-hosted inventory, POS & buying-trip manager for small shops. Next.js + Fastify + Drizzle/Neon, deployed on Fly.io. |
+| [**SMYL Fitness web app**](smylfitness.com) | Modern platform for senior fitness and fall-prevention programs, built with the SMYL Fitness engineering team. |
 
 **Open source:** contributor to [Meetily](https://github.com/Zackriya-Solutions/meetily), the privacy-first, fully local AI meeting notetaker.
 
