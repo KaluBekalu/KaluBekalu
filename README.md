@@ -26,6 +26,6 @@ I have a soft spot for software that touches the real world in real time: camera
 
 ## ✉️ Say hi
 
-[LinkedIn](https://www.linkedin.com/in/kalkidanaleme) · [Email](mailto:kalkidan.bekalu@yahoo.com) · [Tibeb Labs](https://tibeblabs.com)
+[Portfolio](https://kalkidan.tibeblabs.com) · [LinkedIn](https://www.linkedin.com/in/kalkidanaleme) · [Email](mailto:kalkidan.bekalu@yahoo.com) · [Tibeb Labs](https://tibeblabs.com)
 
 *Off-keyboard: photography 📸 and solving Rubik's cubes faster than I debug JavaScript.*
