@@ -12,11 +12,12 @@ I have a soft spot for software that touches the real world in real time: camera
 
 | Project | What it is |
 |---|---|
+| [**Camera**](https://mac-camera.tibeblabs.com) | The "just open a camera" app macOS never shipped: an iOS-style camera for the Mac with Continuity Camera, digital zoom, and real aspect ratios. Native SwiftUI, MIT-licensed, builds without Xcode. |
 | [**Ronen Notes**](https://notes.tibeblabs.com) | Collaborative note-taking for creators: rich-text notes shared with stakeholders for threaded feedback, built around a dual authentication model. TypeScript, private beta. |
 | [**Guaro**](https://guaro.tibeblabs.com) | Cloud-hosted inventory, POS & buying-trip manager for small shops. Next.js + Fastify + Drizzle/Neon, deployed on Fly.io. |
 | [**SMYL Fitness web app**](https://smylfitness.com) | Modern platform for senior fitness and fall-prevention programs, built with the SMYL Fitness engineering team. |
 
-**Open source:** contributor to [Meetily](https://github.com/Zackriya-Solutions/meetily), the privacy-first, fully local AI meeting notetaker.
+**Open source:** creator of [Camera](https://github.com/KaluBekalu/Camera), a free camera app for macOS · contributor to [Meetily](https://github.com/Zackriya-Solutions/meetily), the privacy-first, fully local AI meeting notetaker.
 
 ## 🛠 Day-to-day stack
 
